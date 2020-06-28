@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vishuchhabra/SMS_Integration#readme",
   "dependencies": {
+    "@sendgrid/mail": "^7.2.1",
+    "dotenv": "^8.2.0",
     "nexmo": "^2.8.0"
   }
 }
