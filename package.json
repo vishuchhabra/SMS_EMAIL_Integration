@@ -1,0 +1,22 @@
+{
+  "name": "sms_integration_with_node",
+  "version": "1.0.0",
+  "description": "Use SMS integration with NEXMO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishuchhabra/SMS_Integration.git"
+  },
+  "author": "Vishu Chhabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishuchhabra/SMS_Integration/issues"
+  },
+  "homepage": "https://github.com/vishuchhabra/SMS_Integration#readme",
+  "dependencies": {
+    "nexmo": "^2.8.0"
+  }
+}
