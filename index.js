@@ -1,8 +1,8 @@
 const Nexmo = require('nexmo');
 
 const nexmo = new Nexmo({
-  apiKey: 'd325995d',
-  apiSecret: 'yHKAabAbGkC9eUSp',
+  apiKey: '',
+  apiSecret: '',
 });
 
 const from = 'Vonage APIs';
